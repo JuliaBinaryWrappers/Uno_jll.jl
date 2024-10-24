@@ -1,288 +1,288 @@
 [[Uno]]
 arch = "aarch64"
-git-tree-sha1 = "4b6c56b3bd4c235bffeb78de8954270b355c7567"
+git-tree-sha1 = "e85518fcde2d9eb64dbf488260d66831a48077e6"
 os = "macos"
 
     [[Uno.download]]
-    sha256 = "4c789b8b3a5b9a15ffc9b39b669974b749662b56e16fd3b30c672bd16b9c82fd"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "ca21078ef15523ce4bd2773e59315d72e51365e9e1bbf511c241ce12a4d85829"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.aarch64-apple-darwin.tar.gz"
 [[Uno]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d28eefe8a747b8110a4b8fe08eb79db6bb111743"
+git-tree-sha1 = "561241aa52666b781b9c757b4199da62310c40d8"
 libc = "glibc"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "aece7b08c5ee6a739c02c51a961f9d3d42e23362be9b2883ca176f6787f4a862"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "9763bb571a8769a95702a7a0ec8c5bd93e13a779b973912b78c1b3369260174e"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.aarch64-linux-gnu-cxx03.tar.gz"
 [[Uno]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "73d0b032817efb913c8a3fa76d455f40c3e9c62d"
+git-tree-sha1 = "d9e3a39a45a417824fa14da157b365a1adeab575"
 libc = "glibc"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "de819329e0b06d9baefaa394428c02807236aba59e7a2e81ffdaa110823f840c"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "2971b0e18f98b2fd4275b1e53c5555a464d08eb7a614ecda447c06f03363a487"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[Uno]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "139c7d2c028a27244500695287d781330864d665"
+git-tree-sha1 = "9caef44a05f2f1e4b23b669e495d84a4674286dc"
 libc = "musl"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "277cca32f8f1205eb48187c60138e68b18929b9f59938ee33c8328944918b21f"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "63ff621b0b2e67f6be0d977f31056afa075f4154bf2be1f0d569f40ea0a0a406"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.aarch64-linux-musl-cxx03.tar.gz"
 [[Uno]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d6b344f7202c501295c402cff0db293f0b45c0e5"
+git-tree-sha1 = "dac4c41f750e2760fa6431d83e90793e5629f3a5"
 libc = "musl"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "7423b86d9d65248cdd5fe9ca3f2b600bd2670ccc0460e8cbbcbbf5ae89f96461"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "d80774f4707edbec77a014b54a6a8bafa843678987b6f1be7258345430d36300"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.aarch64-linux-musl-cxx11.tar.gz"
 [[Uno]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ca00c24f9290fc2641883d20360c28c08d2d8db8"
+git-tree-sha1 = "370c95bb58c28754bce6f184af952cb01c9d691e"
 libc = "glibc"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "05c3bc1c00b418d3d22e1b4520d2009e5efbf396cfef5508276c3344ae5b7bdd"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "55f58aff59567c594249ad6b12f2c91498a3fb59cb1692b26d1c9285f33f2847"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[Uno]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "91cee5cb5bb82b6adf69c8491e46c78096479fcc"
+git-tree-sha1 = "41ae8004878c18b28acba9155a64b148e7f86641"
 libc = "glibc"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "73e256831233a05251a4f40f0e7011313596fd041e6d3cafb8df4db3be6ee73f"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "2758cd5801d91ec33518bfa82db5f981a4bb08d8202c17fe84195aa315afe725"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[Uno]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0810c2e0e002e0271988e623d6969a5a91fa9c1c"
+git-tree-sha1 = "2f50dc1dc5f603b17eb4d0dd088d1e10990acbcb"
 libc = "musl"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "cad1c8f43220f96d494b5a425a2ac74b614f09757f5c9d89a1ad026c86adf1e0"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "b75104477530ed7de934985927c34c7d72532eff4c6a877cba5be7ed833630ae"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[Uno]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2022538e2e2446b1fa7b87bba4b95d703cb2f60e"
+git-tree-sha1 = "b51a7e4d249f3a0af6afc28ae61aab5a213b932d"
 libc = "musl"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "f0b9b39a1441c6a33939d833f3e3435e262b22f0428b7ae0c09eeb2687d07901"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "fc7b76fdde25e74a1547466540afe5f168e7400785cb6bd0b8d9d983f52f1f5c"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[Uno]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ef4ab36c4dd09953220e9c9e3f76c0aa5d0ba0f0"
+git-tree-sha1 = "0abcb7883c5316fa0ce772014f49af465a258bc4"
 libc = "glibc"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "e7a51ec552473c74151c757c5d193467aa922faff83a25301b085b9741965368"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "a52dd8af586bcdebf193ed00721588b5920ca0554acbdbce51a130b6ac2d07e8"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[Uno]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "16d3464cb72115177d4bb6a2c7cb9bab2037c063"
+git-tree-sha1 = "69d958700c9dc64af401c64b97e9fde2b01a0d45"
 libc = "glibc"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "0d6a00ac2eb9798cd885ba90e33e8e4af914166a04d3bc3e2f466abf7d15db1d"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "891e3211365eb8fb8e28d5673a6df85efceb1589cba85676c7bc08dd24b43d22"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[Uno]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d83377c7a432770ea96dc999a5c9176ba863f3b6"
+git-tree-sha1 = "484c01661d543980523ffb95f83bbeafb8cf274d"
 libc = "musl"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "92a841e86cd21b53fca35d6bdac22f5183f4fb695d46d0f7b4519752cdccba8c"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "5adba0ed693ce3f7dad478d8ba5779162407b9ac76c53a339491f8b17e90b518"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[Uno]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d3cf6fe5fa9180812ae6cc38ab48522f3547bfc7"
+git-tree-sha1 = "5c5d5e65c954b4dec7f19a3670a1ab0c7847d639"
 libc = "musl"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "be7600cbb4a8ff581ccfcc611280733bc6913443f442030f3c587a0246def655"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "7020a1c7ce37afb537477aab4ab7ee52110e4bbfdc02360d220417eb0b27d646"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[Uno]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "013215c10e067a0e39d266b76c3f3ec59c407e7c"
+git-tree-sha1 = "8ef9dc370a09ce5b3ad56b24ab38145aa9f1d702"
 libc = "glibc"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "323ae0d14dedf5cd9e253fd90c9fed7c0db1761a9df49051225de33c0f6001a9"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "539faa41fb413375d93477bf47b13fbea4a0ee947abc4a499ebbaa168dabbbe1"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.i686-linux-gnu-cxx03.tar.gz"
 [[Uno]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "97837234568950196d5bd7b23ca0b49845dcf6ed"
+git-tree-sha1 = "56afd1fb3e865dce41b2c3b431d929530a0f5aa6"
 libc = "glibc"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "81fe9a6bc78cbfa7d549d532810513f354737c3be8f42e3aca4db90f3b973830"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "85027e4e8f8687d22a3fe2a7d2d8422459adb77e03c090d5a6d37a70e43c0240"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.i686-linux-gnu-cxx11.tar.gz"
 [[Uno]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "37dc00b802b3ed9b0842979864af05413e6191ce"
+git-tree-sha1 = "f9ffc7b3e48c12d65391dffa58dfdc2d6b07f573"
 libc = "musl"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "794ad312b448564c880d8020dfc6360fd56f6cfb6b1cd9579a63aef252b86992"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "18673b464dcc289357b51887d4e1c21e3ea6591b1f4f0fd24a761af69eba8cfb"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.i686-linux-musl-cxx03.tar.gz"
 [[Uno]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "62a11a7b8cf5a83de39a3114dd488e77f8178d7a"
+git-tree-sha1 = "ca4d033c114e28c276769095c8a459990e6cdfbc"
 libc = "musl"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "1946693363a9b9998b0fd6f7030caa24879542869b2a3c3725e29420a1906b0b"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "9a97e6d74082852f24b22f4631453c6d134b207fd628d80185bacb869e08563f"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.i686-linux-musl-cxx11.tar.gz"
 [[Uno]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "688b5d832bd979f8bdef8d62769765da21d319a5"
+git-tree-sha1 = "d2e29bd627cfd9a4c1a693a1faec8faf7b7bbe58"
 os = "windows"
 
     [[Uno.download]]
-    sha256 = "c3c0cbc20070f5a388183343e9d4208aee00058773dcb497b9da39e573e903af"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "c12d49ae447a5e04b805a06bfe97378e9ea4c8fc198038154dde8bb3e6ad8bd6"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.i686-w64-mingw32-cxx03.tar.gz"
 [[Uno]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4ce4db554e5a669073e51da943f1dc70e7ef06ce"
+git-tree-sha1 = "713ffa4077d5717dbaa9eba5d3bbe076a670ea27"
 os = "windows"
 
     [[Uno.download]]
-    sha256 = "ce040ae0ff635814144f7a86f1b5040a6c11042894a7cf5f4dd3ad676e5cee91"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "c7c3aa7d0e71f6cc1c188afd4b4b7e86c5da562bbbd7681b80e32080d91aa654"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.i686-w64-mingw32-cxx11.tar.gz"
 [[Uno]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a0fbf6c59fe78b3a29c99440b9bb3032d03edd56"
+git-tree-sha1 = "1c09148d58fff1e02d307d45bf5c10c4a1b89005"
 libc = "glibc"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "0a77a2fd17352b464a13f4d2fd34a57d42ba26634b10b1b8e3cd23d613f76c8c"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "b2a55aa7fb2fd057f698f8c3f4671a2e57645c41b66803576d2c90fcf7ccbaac"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[Uno]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0c3da16a0bf00c514eab13540a3ba832ab578858"
+git-tree-sha1 = "039430ae7e0074b2a3f286acf3e240dedb8bdbd9"
 libc = "glibc"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "2d0384ae478edd7854b5633dc83d11abf1f7f648e0a077596fac779c8d49f555"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "2962fb88e2bced6e7422af7c0d2b152c2461ec7fb0efb30e20b04c165e178f4c"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[Uno]]
 arch = "x86_64"
-git-tree-sha1 = "003f0966a039df56972cc9bd38df670a7ff43fc2"
+git-tree-sha1 = "044533ab8e182607766e362f0bfbc23178c75802"
 os = "macos"
 
     [[Uno.download]]
-    sha256 = "b93922d14ed9944dcd996337f4fae38c0718db24be7eba2c74d089d5893b4cf6"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "fbe70f7e8fb584d2437bc477f53d53526ba732326a559cfb6b4b66cd5c9110ef"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.x86_64-apple-darwin.tar.gz"
 [[Uno]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a45f21591413a0808f1c0d334666330472c337e7"
+git-tree-sha1 = "80cfd34d46216e468d1be321329ade0bb87bbdda"
 libc = "glibc"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "fbbc75410af6cb5103100da13ca4c2c16477e1d6f4c751cdc4eef8239f381f35"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "b70f998e9e099dbbb62af272a2ef31d977f8349092e919cee8843c12835f11f5"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[Uno]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fefdc9ca80e5066b63d1ea9688fa873580b3cff9"
+git-tree-sha1 = "8a7f9fc5c63dcf4f9db107b29a6c852d738eb1e8"
 libc = "glibc"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "1a194fcaafcd3777efefc02b5af8f98c0457562103bb1b53772b96552aae8a75"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "d28959e7707dca46f8c8cb81fb7e47482d6b74f6c3e692bcd4ee4af3977e0660"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[Uno]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "691fe2bf64a478171a5170fcd143a0f5d8f36739"
+git-tree-sha1 = "3b1625ffaea234d5382a1bdeb228d8e4d4ec3820"
 libc = "musl"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "d3e3b3702b031f759ac51f0316092a10fd19fe430266501882ea18c15ee28a3f"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "497f678e2d493d06274a8802133474725681d4aa1155806b74a7b2503548b2ec"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.x86_64-linux-musl-cxx03.tar.gz"
 [[Uno]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7bbbd81fe612030789177c23fedbf3b01705bdc1"
+git-tree-sha1 = "62747ae89b8b4bec179f8827267ff9808a27c877"
 libc = "musl"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "56af75cf90efc830840ee755aca90bae2ff76dd4aa30f542babf25459d482e35"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "8bd0bcb81a8e01bea7f2986088ea971852360a0b8c386aeaed88d017de634bf5"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.x86_64-linux-musl-cxx11.tar.gz"
 [[Uno]]
 arch = "x86_64"
-git-tree-sha1 = "3ddd54f4a7834d1230136b71994778d65d0f54a6"
+git-tree-sha1 = "9284332b0f17d860da680aefc1963289444c6714"
 os = "freebsd"
 
     [[Uno.download]]
-    sha256 = "efcaa97b0a78ffa34bee56d28046e4bf4c3366369aac32b9eff946816d0ad87c"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "4808fa29df57b6778544f8b204349089abe9443d24610d8d2e06f3b5cb2c5063"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.x86_64-unknown-freebsd.tar.gz"
 [[Uno]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "fb35eeebe6bc6adf2e786a6bd8b580c640c31536"
+git-tree-sha1 = "1c2832dae0339443be51f38f015bb259a051387e"
 os = "windows"
 
     [[Uno.download]]
-    sha256 = "322d5e4865957ed808d668e604e475554245b07accecb86ccdcaa43c8a634f63"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "3e4c7ebf37a83ec2c320874cecbb100bd37d862418f91e3076763b71ec7d84dc"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Uno]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "be6642e9d857298ca64f0c583c86a6f098612fc4"
+git-tree-sha1 = "8897569aa91e16a9afa7ca37f10470e67fb308e6"
 os = "windows"
 
     [[Uno.download]]
-    sha256 = "ae698c9d632f2f05117398e0cd5886cab47044781ac12288d0c4c7adf26b8ca5"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.0+3/Uno.v1.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "04cedc3657f761a4b6f2613d3b0585c65f1a841bc3d74dd75f48b4b01cc03ae1"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v1.1.1+0/Uno.v1.1.1.x86_64-w64-mingw32-cxx11.tar.gz"
