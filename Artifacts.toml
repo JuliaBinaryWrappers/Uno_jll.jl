@@ -1,317 +1,317 @@
 [[Uno]]
 arch = "aarch64"
-git-tree-sha1 = "e458ee477187d5e384068ecf5bcfc24ac428b30a"
+git-tree-sha1 = "37151c5f9033153653e61f41934d9c68b4018f11"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[Uno.download]]
-    sha256 = "1b7c588e3c898ab6ddb6005cd51515ee9f136516250f4ebd682955d8e592fdc6"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.aarch64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "f58550977b726abaa5153a4aa7d3d96fa49c3ac223028fed809bed501e54d721"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[Uno]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "660fde6e7b7b13d26a644077f7a40f8223b6ab4b"
+git-tree-sha1 = "89eb5074c997770ac619b169dfa4a47223c1e06a"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "5f748b83786867a7248b93e7643acf2b9a07e8b5141a3ebe6fe9604db35c2334"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "13f35a9a1dc1e47d50a228b993a32a66d75d2056762ebf500d1526d28383b70d"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.aarch64-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[Uno]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eae3b195cc775ea93c8e84665fd81b481447a5e5"
+git-tree-sha1 = "c34d18deae5c3140f5a013c2e301f1ea1467473f"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "01854da92b00e6a9d9fe7fe6cfca4e6dc739c7efc19c85fa7172f11156cce55c"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "e4f4d37cec75cdb475eb48bc358c23ffa95e26be88dca206e1f06434ee190caa"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.aarch64-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Uno]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f2c6a52e56f0f32c8ba01e1624927a0b47c6b10b"
+git-tree-sha1 = "1719db93662d1046714503dcdab562579bc74d2b"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "0946a52527e13c0160892590fa6a00f67ceca58ce8fc25ec391b5bd3b69f5540"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.aarch64-linux-musl-libgfortran5-cxx03.tar.gz"
+    sha256 = "8ad771d9acd7ff79131a3105ba7366e67f8b4248dd90262d82ce91aa3b924760"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.aarch64-linux-musl-libgfortran5-cxx03.tar.gz"
 [[Uno]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2a4317c11250b43af3a70d448659e6918713ce4c"
+git-tree-sha1 = "01dfe1620f9d22296b332c3fb102e1fed8e784f9"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "a229f0ad7f44bd422d3eb83dc61cd76f9a01b87ab2c6c221ca9aab7c3f1062a4"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
+    sha256 = "d2cd221a9612f29e6286d90ef3bb20d399352501b0556f74f47e39f60237eb9b"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.aarch64-linux-musl-libgfortran5-cxx11.tar.gz"
 [[Uno]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d1021b75ab6ea014a50104fc748143f5e115c676"
+git-tree-sha1 = "da21d8a1c4c74a4d55fa5c24d103520b9a864822"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "0db028eab9d3f5c36c68fdcb4f1851a3206b53ab150b5c3385f70a674ba97233"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.armv6l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
+    sha256 = "47918827033928b9e30a409e2d7b071f4d219aeb50e2d848f60030d0ce6a30f9"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.armv6l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
 [[Uno]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ba1d98a401d326a8890717258260bd5254a75738"
+git-tree-sha1 = "ce14c5f662f2fa0a35c3107a8f6ecaab7a29137d"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "836fd5dcdaafff250a224a0150b75a5b2443760004bc807bb219893e57354c73"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.armv6l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+    sha256 = "f8a6c0d66b39861fe38a548b38a69dbe789c99ee0baf1382c29ce57f50e8d8d7"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.armv6l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
 [[Uno]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a5302e58ce12198d919a609b85c2eb9a9e1013d2"
+git-tree-sha1 = "fc2a2be8ee6214283b3223b0f9838e54fbadc38d"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "3b2e8f21bade9cecf199cdbe52ca3027067d91a1bd63992dec58b3a71c745d7e"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.armv6l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
+    sha256 = "b1d61046438d996bff6cb7cb9c80d9951a715d6d0dade9ce0e8f101a807962b7"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.armv6l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
 [[Uno]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "18da248fec36b3eaa74e5456b9fb70c0fdd88820"
+git-tree-sha1 = "bdb578862d56eb598694b8566245cbfd40b8915a"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "4508a0aa72820d3008465fcb1a4398c1c202cd140216ba3265ec431e834be0ae"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.armv6l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+    sha256 = "89d1461bc1ffdec8b34cc82ce6b2c12605145c98df80b2503477d49ac6de2d08"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.armv6l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
 [[Uno]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "af09081a12c0fb23dd92d0cdc3cc4b1385281f27"
+git-tree-sha1 = "4b830a844d6a72a3a5764bb9c6a5846d0a38708b"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "9be7d1a5b191a354316015771b6837d40f0a3fc4febf7ddae482e636e676fd08"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.armv7l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
+    sha256 = "0c9f1cac57213e7dc18fd5f356e7aa87f4cdbb4f91a190223c793ad295cb013e"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.armv7l-linux-gnueabihf-libgfortran5-cxx03.tar.gz"
 [[Uno]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "62900263d6709daacaa92ba2de9fd1af609ca1c2"
+git-tree-sha1 = "9d051f63dc246adf34688e969b0eb1ccb8b17f01"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "9cd4324c5b0eee02ba2d3e5fc04a85fcc504ed7f2cc106419e4cf076dbd22f35"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
+    sha256 = "383f5bdc84846f1c133bd79c13e908df740cc8bee544d556773d37f843a3bbc9"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.armv7l-linux-gnueabihf-libgfortran5-cxx11.tar.gz"
 [[Uno]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "59a98db389d47d1e6eb588625941fe273e6b397a"
+git-tree-sha1 = "b85314cf20fe0c654b25b4690e37721aad5c92be"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "fbbdd04eb623c05a9e0bc02a83a2ee684b489a8d9d0f75420521c581c9d48de8"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.armv7l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
+    sha256 = "2d2d4ea8c83d86c4c1547c622462b828562d204c373e9d308a60ba89ff9308c3"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.armv7l-linux-musleabihf-libgfortran5-cxx03.tar.gz"
 [[Uno]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "291f778e2d266f63074b45e82d834c7b635ded26"
+git-tree-sha1 = "45f35cd349bd3cf7e74def040f2ce6aadbbd145c"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "a4809251ca41495c30c283f3922635e1383142e2d6b80d0e7f29393d1bf7ca30"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
+    sha256 = "e365a91d21964bc78ae51f57215c9c61cb67cd5983757424a75c534a1fd5446a"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.armv7l-linux-musleabihf-libgfortran5-cxx11.tar.gz"
 [[Uno]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "20d47b23683092511578e0fd5e74d0b673b4f217"
+git-tree-sha1 = "97850fdf8ea1afcd4775b57f03483b5fcfb86ea2"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "4ee64e6db5dcd6d4ff0fa3df93bd7f960a9c6e1c23b054de528d344af3b883b5"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "24ba7dc722618b9512abd09af98fbee78a5b558d5f3a9fb5d53870df2a7d10f8"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.i686-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[Uno]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7bd42b65be777969560803fedbff93e33e527744"
+git-tree-sha1 = "9cb3cba42ea50caa8a563fa02b89316aaafa728a"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "b892eff564d7bbdba7238e7c48ead2b91a83a2355a8eb7fe791b5462fbca3b4d"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "0f6feb005284112d556d76b36e6b5bdba5672d807c241dfd1acca5fa46992b68"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.i686-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Uno]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5770e151f95e3c761093f17a3cd1e25d4f081836"
+git-tree-sha1 = "da020551d205171cbeae64b4389642d57f372a12"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "31c52ec7a83772a18a92215fc6221640bff33ec8592e257e7dfc34879b4e707a"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.i686-linux-musl-libgfortran5-cxx03.tar.gz"
+    sha256 = "e3db3ffa959676c9a777fcacd3b61274b32ab06f8f580f274edc2b501fe88f7e"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.i686-linux-musl-libgfortran5-cxx03.tar.gz"
 [[Uno]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "007efcf2551f981de59f21579e5176a066abe392"
+git-tree-sha1 = "dc693e4a356e79238b7fce166d43a4934eb8b068"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "9a9d5ee6d973b9d886d707f6eb2d1443af7edae8975268ad4131d5df3aaeb6fd"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.i686-linux-musl-libgfortran5-cxx11.tar.gz"
+    sha256 = "e9c394be5356ccd353fb66e5c40965c8ca6d31dd75333282a05d46e742e8d488"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.i686-linux-musl-libgfortran5-cxx11.tar.gz"
 [[Uno]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1efa0e91af2f0bcb833f88e877c170e8a2c4dd46"
+git-tree-sha1 = "ceed1680eb8074189f06b9db60b2b4d598d8f03c"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Uno.download]]
-    sha256 = "ff569ffaad0d906b0aea2afa88a53293e14f010eaaf67348a9249b864d809c78"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.i686-w64-mingw32-libgfortran5-cxx03.tar.gz"
+    sha256 = "a821090b90252729ccfaf4f3b3d6cb36537146710c84591ada00309325067977"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.i686-w64-mingw32-libgfortran5-cxx03.tar.gz"
 [[Uno]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8a560a443c4046c1b280c8204cfba3c962bf5966"
+git-tree-sha1 = "b49d8debe313596351c72577b34dcc37c6722b5a"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Uno.download]]
-    sha256 = "35f06ec5101ac537b64145e1e195e5fc237255b909698692090f603cb27f2fe8"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
+    sha256 = "eb63ee450d18e41a46db7de33c61139856aa61481e7b563f1ea077f15f15be92"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.i686-w64-mingw32-libgfortran5-cxx11.tar.gz"
 [[Uno]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bd73e58cb3838bf14d88fc4a27b0cd5d8b3628ee"
+git-tree-sha1 = "dea65f93c9824ce9fb28c637b2ebadf326cef07e"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "0e5b1b9af26be40545d76c0da4645b68bfbae3c316d8a38c1cfa03905079a6d0"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "0556450a245ac19593a8877202dfc2f7796fb6db3098c8495712d4d5a34a3a36"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.powerpc64le-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[Uno]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ef816870fe752fb4ce72ce84a837a804bb0e2226"
+git-tree-sha1 = "1cd294fb835c5448d42ec6a9ce2c1689a067bdb4"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "434438eca864f255d7e83af551cc35f4559c1155248b6368376835710db76a40"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "ea377769bb652cc9abea9527568dce9d0506170a63e06f8825daad38b49b7ebc"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.powerpc64le-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Uno]]
 arch = "x86_64"
-git-tree-sha1 = "a0810f3522e9ba2bcc3432ac0c606f20dee79fe4"
+git-tree-sha1 = "7a984955e0f027d1294d87b9e5468b48cdabe4c3"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[Uno.download]]
-    sha256 = "1fd8ec344d029b6f18d60df9dd297891f75df4afbd17b635d18adff48ed72bc8"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.x86_64-apple-darwin-libgfortran5.tar.gz"
+    sha256 = "920824af4422fde8585f194b5f95b851458fb942450252f1ca7ac567a5024f51"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[Uno]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a3e7a4a9ab007c4165a34146fb729642b7b97057"
+git-tree-sha1 = "4838a9406b8e93e822935636d3eefec27e5dbd66"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "75085188d36197f817ee7e7ab568035ee00bf9f6748b17ebf98b16b235abe27a"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
+    sha256 = "87b14c6e71e751e6731becd27eeaa67f761426db2901f4c15019e0c3c63755c7"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.x86_64-linux-gnu-libgfortran5-cxx03.tar.gz"
 [[Uno]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3527f5a8dab8507bf25e4846ebed2f113086c4ed"
+git-tree-sha1 = "d5bfcaef2bbd6d0d38abba3b24acfeef1dbfb9ee"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "f75e7e47e5f14d474b1a42ac247d5f610cda0f70c814636c03eae4ccfce9aaa0"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
+    sha256 = "81ff2fbd1c41681b1ed5c7a6550caba412735daa3b71aa3bf4dfad0ad140038f"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.x86_64-linux-gnu-libgfortran5-cxx11.tar.gz"
 [[Uno]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9d2742bd76c7238726a6d50a97236ee51b0965db"
+git-tree-sha1 = "40e43fb6bc9a07621b99c1fe2cd91e8435f944b9"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "c2e4361eaf016a261fd1befa314b37c661ed7a2720630c07126d34c47f208b04"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.x86_64-linux-musl-libgfortran5-cxx03.tar.gz"
+    sha256 = "6d662831e100bb7785dbe153913ae65dca3efb26a2209cf47e9203b71891d2ea"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.x86_64-linux-musl-libgfortran5-cxx03.tar.gz"
 [[Uno]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "07f4667913df5382862688f796cac34e29c0abc2"
+git-tree-sha1 = "060a6bf6b7e32ca5993e0c9a04227183a7906b3f"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[Uno.download]]
-    sha256 = "442e424d1658f51956867fb455a54b62e7d34c61410a3418227de7614859b4bf"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
+    sha256 = "6d4b57cbb16d0b84cb011702f208b8e2ffeee6b25441f22b5bd1703e1666aff6"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.x86_64-linux-musl-libgfortran5-cxx11.tar.gz"
 [[Uno]]
 arch = "x86_64"
-git-tree-sha1 = "898ac3fb21aca67ebca01c007922a4b339542553"
+git-tree-sha1 = "4a91d7ccefaf96b5b6f4560c0e28c9a9b6745844"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[Uno.download]]
-    sha256 = "9ab9484cd191fd412b544b737ead2022e4e53748b1d3aae856f8be64fdca0f05"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+    sha256 = "ef05aa49df794df9e9afd0be4c44b3d7e47497d0679dedd2f73020889f86089d"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.x86_64-unknown-freebsd-libgfortran5.tar.gz"
 [[Uno]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4aefa47fede00a6c6dad839ea60a4f445de26dc4"
+git-tree-sha1 = "9b3d60ca452c40cc621a80ac69d6269bc500e596"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Uno.download]]
-    sha256 = "f6f660fb35e1f02837439934bdd7244e78076751e2f319f81fcb37523e45c13f"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.x86_64-w64-mingw32-libgfortran5-cxx03.tar.gz"
+    sha256 = "0d6c09c27b991f8af6acad4daba53ebe839a39cdc6a58151746fcd934b9c1cee"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.x86_64-w64-mingw32-libgfortran5-cxx03.tar.gz"
 [[Uno]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8eca4939c5d1692f6a0999e4bf10d5342901c3a3"
+git-tree-sha1 = "4ee5ace74288c4b1db77694db7b3aa2415c1f2da"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[Uno.download]]
-    sha256 = "459895262d399f7c9daaef8296903d24a18a042a3040b5678e0a273149c6b489"
-    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.1+0/Uno.v2.2.1.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
+    sha256 = "2735c34444b182b6e52d7c863b1e05b9393be70b60c31e028c7c7b6107a4d463"
+    url = "https://github.com/JuliaBinaryWrappers/Uno_jll.jl/releases/download/Uno-v2.2.2+0/Uno.v2.2.2.x86_64-w64-mingw32-libgfortran5-cxx11.tar.gz"
