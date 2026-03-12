@@ -1,8 +1,9 @@
 name = "Uno_jll"
 uuid = "396d5378-14f1-5ab1-981d-48acd51740ed"
-version = "2.4.1+0"
+version = "2.4.2+0"
 
 [deps]
+SPRAL_jll = "319450e9-13b8-58e8-aa9f-8fd1420848ab"
 HSL_jll = "017b0a0e-03f4-516a-9b91-836bbd1904dd"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

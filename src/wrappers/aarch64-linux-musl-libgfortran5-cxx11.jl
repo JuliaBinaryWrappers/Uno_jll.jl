@@ -6,6 +6,7 @@ using HSL_jll
 using METIS_jll
 using ASL_jll
 using MUMPS_seq_jll
+using SPRAL_jll
 using libblastrampoline_jll
 using CompilerSupportLibraries_jll
 JLLWrappers.@generate_wrapper_header("Uno")
@@ -13,7 +14,7 @@ JLLWrappers.@declare_library_product(libuno, "libuno.so")
 JLLWrappers.@declare_executable_product(amplexe)
 JLLWrappers.@declare_file_product(libuno_a)
 function __init__()
-    JLLWrappers.@generate_init_header(HiGHS_jll, HSL_jll, METIS_jll, ASL_jll, MUMPS_seq_jll, libblastrampoline_jll, CompilerSupportLibraries_jll)
+    JLLWrappers.@generate_init_header(HiGHS_jll, HSL_jll, METIS_jll, ASL_jll, MUMPS_seq_jll, SPRAL_jll, libblastrampoline_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libuno,
         "lib/libuno.so",
