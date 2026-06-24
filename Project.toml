@@ -1,6 +1,6 @@
 name = "Uno_jll"
 uuid = "396d5378-14f1-5ab1-981d-48acd51740ed"
-version = "2.7.4+0"
+version = "2.7.5+0"
 
 [deps]
 SPRAL_jll = "319450e9-13b8-58e8-aa9f-8fd1420848ab"
